@@ -7,7 +7,7 @@ A Streamlit-powered search engine that retrieves Wikipedia articles and ranks th
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**🚀 Live Demo (Local):**
+**🚀 Live Demo (Local):**https://search-engine-szvtdxxmczpldzhsqqqe9c.streamlit.app/
 
 Run the application locally:
 
